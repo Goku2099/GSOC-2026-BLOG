@@ -41,4 +41,4 @@ Current mood this week:
 
 - LinkedIn: [LinkedIn-Sameer-yadav](https://www.linkedin.com/in/sameer-yadav-ab7280341/)
 
-![](images/week2.png)
+![](images/week-2.png)
