@@ -12,7 +12,7 @@ A lot of people ask me whether this journey is difficult or how I managed to do 
 
 Looking forward to learning more, contributing more, and making the most out of this journey with Kubeflow and GSoC 2026. I will also be sharing weekly updates about my GSoC journey and learnings.
 
----
+
 
 ## Connect With Me
 
