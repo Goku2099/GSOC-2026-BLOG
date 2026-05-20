@@ -1,4 +1,4 @@
-GSoC Bonding Period — Week 3
+## GSoC Bonding Period — Week 3
 
 This week was again focused on understanding the codebase, running everything locally, and handling the bugs I encountered during testing.
 
