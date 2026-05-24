@@ -19,7 +19,7 @@ I genuinely feel like I am growing 2x or even 5x faster just by:
 
 This week I also learned a few new debugging techniques that are helping me a lot while diagnosing issues.
 
-For new contributors:
+### For new contributors:
 
 If your only reason for entering open source is “getting into GSoC”, then your goal is probably too narrow.
 
