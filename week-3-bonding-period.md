@@ -10,7 +10,7 @@ Honestly, this entire phase of exploration and debugging feels exciting.
 
 Sometimes you spend hours tracing logs, workflows, pods, port-forwarding, cluster states, and internal execution paths just to understand why one thing failed. But that process teaches a lot more than simply reading documentation.
 
-I genuinely feel like I’m growing 2x or even 5x faster just by:
+I genuinely feel like I am growing 2x or even 5x faster just by:
 
 * cross-questioning things
 * discussing approaches with mentors
