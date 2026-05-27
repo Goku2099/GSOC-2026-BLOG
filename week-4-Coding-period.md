@@ -13,3 +13,4 @@ Currently, I am taking references from some existing projects, understanding the
 and discussing the approach with mentors before moving fully into implementation
 One thing I realized while looking back is that there was a point where I knew almost nothing about these systems. But now, after continuously exploring, debugging, asking questions, and learning from mentors, I can genuinely see progress in myself.
 And honestly, if someone from a tier 3 college like me can reach this stage, then others can do it too.
+![](images/week-4.png)
