@@ -7,7 +7,7 @@ Before writing any code, I created an end-to-end workflow document to clearly ex
 - One thing I am learning every day is that large projects become much easier when you break them into smaller pieces and track progress step by step. What initially looks overwhelming becomes manageable when approached systematically.
 - Overall, this week was a mix of design, implementation, debugging, testing, and learning. I am continuously growing through the process, and I feel fortunate to experience this kind of engineering and open-source environment.
 ## Week 1 of the coding period: Completed.
-### First PR: [GITHUB-PR](https://github.com/kubeflow/sdk/pull/521)
-### Learning: Continuous.
-### Next target: Keep building.
+- First PR: https://github.com/kubeflow/sdk/pull/521
+- Learning: Continuous.
+- Next target: Keep building.
 ![](images/kubeflow-spark-batch-jobs.png)
